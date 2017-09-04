@@ -12,9 +12,9 @@ This was originally designed to be cut on my Glowforge Basic laser cutter on 0.1
 
 ## Files
 
-* battery_box.svg - Design pictured above with _DEAD_ and _CHARGED_ labels on the battery hoppers.
-* battery_box_no_text.svg - Same design with no text. Some folks have reported problems opening the version with text. If you have that problem, you can use this version instead.
-* battery_box_v4.f3d - Exported Autodesk Fusion 3d model for this design.
+* [battery_box.svg](https://raw.githubusercontent.com/imbriaco/laser-battery-dispenser/master/battery_box.svg) - Design pictured above with _DEAD_ and _CHARGED_ labels on the battery hoppers.
+* [battery_box_no_text.svg](https://raw.githubusercontent.com/imbriaco/laser-battery-dispenser/master/battery_box_no_text.svg) - Same design with no text. Some folks have reported problems opening the version with text. If you have that problem, you can use this version instead.
+* [battery_box_v4.f3d](https://github.com/imbriaco/laser-battery-dispenser/blob/master/battery_box_v4.f3d?raw=true) - Exported Autodesk Fusion 3d model for this design.
 
 ## License
 
