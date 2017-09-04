@@ -4,7 +4,7 @@
 
 Simple battery dispenser designed for use with AA batteries. The dispenser has two storage areas, each of which hold 8 AA batteries.
 
-![https://cdn-business2.discourse.org/uploads/glowforge/optimized/3X/7/3/734cf86e68dd0b800f57ac9c6787a8d4ed6fc5df_1_666x500.jpg]
+![Battery Dispenser Image](https://github.com/imbriaco/laser-battery-dispenser/raw/master/battery_dispenser.jpg)
 
 ## Details
 
